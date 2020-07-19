@@ -1,0 +1,53 @@
+body{
+
+	background-image: linear-gradient(to top, rgba(255,255,255,0),rgba(255,255,255,0)),url(NightSky.jpg);
+	background-size: cover;
+	background-position: top;
+	background-attachment: fixed;
+	width: 80%;
+	border: 20px double indigo;
+	font-family: source sans Pro, sans-serif;
+	padding: 20px;
+	margin: 20px auto;
+	max-width: 700px;
+}
+.blog
+{
+	margin-bottom: 20px;
+}
+.date
+{
+	color: #fff;
+	letter-spacing: 0.2rem;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+.paragraph
+{
+	border-left: 5px solid #2370a5;
+
+}
+.paragraph2
+{
+	border-left: 5px solid #2370a5;
+
+}
+h2
+{
+	font-size: 2.0rem;
+	color: #fff;
+
+}
+hr
+{
+	border: 0;
+	height: 0;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+p
+{
+	color: #fff;
+	font-weight: 300;
+
+}
